@@ -1,2 +1,1 @@
-3text for next
-4next for text
+4my second command
